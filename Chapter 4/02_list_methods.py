@@ -12,3 +12,4 @@ l1 = [1, 34, 62, 2, 6, 11]
 # print(value)
 l1.remove(62)
 print(l1)
+print(type(l1))
